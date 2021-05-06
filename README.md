@@ -1,6 +1,6 @@
 # PacMan
 
-<img src="images/PacMan1.png">
+<img src="images/PacMan1.png" width="200">
 
 ## Description
 
@@ -8,7 +8,10 @@ This project consists of an interactive "game" where you can create various Pacm
 
 ## How to run
 
-- Load index.html
+- Click the green "code" button
+- Click "Download ZIP" on the dropdown menu
+- Unzip the files
+- Open index.html on a web broser
 - Everytime you click the "New Pacman" button a new PacMan will appear on the screen.
 - Click the "Start Game" button once you are ready to start the game.
 - You can keep clicking "New Pacman" to add more PacMan.
